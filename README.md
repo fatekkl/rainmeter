@@ -43,7 +43,7 @@ Now, something you need its change your *skin* on **rainmeter** to **MondPoppins
 
 ## Download the Mond Theme (Package Installer)
 
-[📥 Download Mond Theme ZIP](https://github.com/fatekkl/rainmeter/releases/tag/MondPackage)
+[📥 Download Mond Theme Package Installer](https://github.com/fatekkl/rainmeter/releases/tag/MondPackage)
 
 Here is the MondPortuguesePoppins package installer. Just open the archive, and the installation will proceed.
 
